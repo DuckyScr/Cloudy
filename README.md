@@ -15,4 +15,8 @@ flutter needed to run the app
 ```bash
     flutter run
 ```
-    
+
+### TODO
+- Add Icons to UI
+- Split the predicted data to days and hours
+- Improve color pallete
