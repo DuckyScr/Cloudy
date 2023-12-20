@@ -1,0 +1,18 @@
+
+# Cloudy
+
+Simple application for telling and predicting weather using open-meteo.com
+
+
+
+
+## Installation
+
+This app is still in heavy development and needs to be polished so its not in deployment state and only way to run it is trough the flutter compiler on PC.
+
+flutter needed to run the app
+
+```bash
+    flutter run
+```
+    
